@@ -13,7 +13,7 @@ int main(){
             sl = fl;
             fl = a[i];
         }
-        else if(a[i]>sl){
+        else if(a[i]>sl && a[i]!=fl){
             sl = a[i];
         }
     }
