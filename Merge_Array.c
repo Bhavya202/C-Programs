@@ -1,3 +1,4 @@
+// WAP to merge two arrays into a single array
 #include <stdio.h>
 
 int main(){
