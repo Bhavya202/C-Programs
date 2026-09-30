@@ -1,3 +1,4 @@
+// WAP to find largest and second largest element of an array
 #include <stdio.h>
 
 int main(){
